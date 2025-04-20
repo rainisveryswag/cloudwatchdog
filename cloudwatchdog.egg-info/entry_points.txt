@@ -1,0 +1,2 @@
+[console_scripts]
+cloudwatchdog = cloudwatchdog.__main__:main

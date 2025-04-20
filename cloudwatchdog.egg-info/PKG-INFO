@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: cloudwatchdog
+Version: 1.0.0
+Summary: CloudWatchdog - a CLI tool for detecting suspicious cloud activity
+Author: Yousra
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: requires-python
+Dynamic: summary

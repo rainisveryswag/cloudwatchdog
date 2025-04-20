@@ -1,0 +1,17 @@
+setup.py
+cloudwatchdog/__init__.py
+cloudwatchdog/__main__.py
+cloudwatchdog.egg-info/PKG-INFO
+cloudwatchdog.egg-info/SOURCES.txt
+cloudwatchdog.egg-info/dependency_links.txt
+cloudwatchdog.egg-info/entry_points.txt
+cloudwatchdog.egg-info/top_level.txt
+cloudwatchdog/rules/__init__.py
+cloudwatchdog/rules/data_exfiltration.py
+cloudwatchdog/rules/download_spike.py
+cloudwatchdog/rules/failed_logins.py
+cloudwatchdog/rules/outside_hours.py
+cloudwatchdog/rules/privilege_escalation.py
+cloudwatchdog/rules/user_creation.py
+cloudwatchdog/utils/__init__.py
+cloudwatchdog/utils/parser.py

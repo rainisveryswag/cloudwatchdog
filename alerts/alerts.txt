@@ -1,0 +1,7 @@
+Possible data exfiltration: download-agent from 198.51.100.99 accessed audit-logs using GetObject
+Possible data exfiltration: download-agent from 198.51.100.99 accessed audit-logs using GetObject
+Possible data exfiltration: download-agent from 198.51.100.99 accessed audit-logs using GetObject
+Possible data exfiltration: download-agent from 198.51.100.99 accessed audit-logs using GetObject
+Access outside business hours by 'earlybird' at 06:30:00 from IP 10.10.10.10
+IAM user 'temp-user' was created by 'sec-admin' from IP 172.16.0.1
+ Suspicious download spike: 4 file accesses from IP 198.51.100.99
