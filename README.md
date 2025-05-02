@@ -81,15 +81,16 @@ IAM user 'temp-user' was created by 'sec-admin' from IP 172.16.0.1
 Suspicious download spike: 4 file accesses from IP 198.51.100.99
 ```
 ## Rules Included
-Rule	Description
-failed_logins	Detects multiple failed login attempts
-privilege_escalation	Flags risky API calls like PutUserPolicy
-data_exfiltration	Tracks excessive access to storage buckets
-outside_hours	Detects access outside working hours (8 AM–6 PM)
-user_creation	Detects new IAM user creation
-download_spike	Flags repeated file downloads from same IP
+- Rule	Description
+- failed_logins	Detects multiple failed login attempts
+- privilege_escalation	Flags risky API calls like PutUserPolicy
+- data_exfiltration	Tracks excessive access to storage buckets
+- outside_hours	Detects access outside working hours (8 AM–6 PM)
+- user_creation	Detects new IAM user creation
+- download_spike	Flags repeated file downloads from same IP
 
 ## License
+This project is licensed under the MIT License.
 
 # Author
 Made with 💻 + ☕ by Yousra
