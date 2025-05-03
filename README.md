@@ -35,7 +35,7 @@ CloudWatchdog is optimized for **AWS CloudTrail**-style logs, but it works for *
 
 ---
 
-## 🛠 Installation
+## Installation
 
 ```bash
 # 1. Clone the repo
